@@ -1,0 +1,18 @@
+github-stats*
+
+# Virtual environment
+venv/
+.env
+*.pyenv
+*.venv
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
