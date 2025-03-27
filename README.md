@@ -4,6 +4,8 @@
 
 ## Overview
 
+ - install packages `pip install -r requirements.txt` 
+ - run app, cd into `src` dir, open terminal run `streamlit run app.py`
  - App allows anyone to fetch any valid Github user's statistics.
  - The github api comes with many themes, you can change it on `line 4`
 
